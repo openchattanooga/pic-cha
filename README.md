@@ -4,7 +4,7 @@ Repository of Public Domain Photos of Chattanooga
 
 ## Purpose
 
-Chattanooga is beautiful and we want to show it off to the world. We want this repository be the place where folks come to find images of Chattanooga to include in their works without hassle.
+Chattanooga is beautiful and we want to show it off to the world. We want this repository to be the place where folks come to find images of Chattanooga to include in their works without hassle.
 
 ## How To Submit
 
